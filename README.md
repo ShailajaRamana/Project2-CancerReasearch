@@ -3,7 +3,7 @@
 Proposal
 Project is to Understand/Analyse the Health Insurance data across the globe concentrating USA. This includes analyzing Age groups, Speciality Patients (Patients with oncology Therapy, High Bleeding disdords, HIV Therapies etc.) and Demographic plotting.
 
-Benifit: This would help a organization to specifically crave out a Health plans. This would enable people to select/deselet as per the needs. 
+Benifit: This would help a organization to specifically carve-out a Health plans. This would enable people to select/deselet as per the needs. 
 
 Data that is used for this Analysis:
 1. https://www.programmableweb.com/api/cigna-health-rest-api
